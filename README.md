@@ -1,4 +1,4 @@
-# turing-machine
+# TuringMachine
 Simulates a Turing Machine. 
 
 # Properties
